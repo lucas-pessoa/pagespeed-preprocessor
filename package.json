@@ -1,0 +1,15 @@
+{
+  "name": "examplepage",
+  "version": "1.0.0",
+  "description": "",
+  "main": "arquivo.js",
+  "dependencies": {
+    "jimp": "^0.2.28"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
